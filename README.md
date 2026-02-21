@@ -1,7 +1,7 @@
 # SolScan
 
 **Audit Solana programs before you ship. Find vulnerabilities before attackers do.**
-*by cybersecurity experts*
+*by @drizzy8423*
 
 ---
 
@@ -51,7 +51,7 @@ Top Fix:
 -> Validate CPI: require_keys_eq!(program.key(), EXPECTED_PROGRAM_ID)
 
 -----------------------------------
-by cybersecurity experts | SolScan v1.0
+by @drizzy8423 | SolScan v1.0
 ```
 
 ## How to Use
@@ -74,4 +74,4 @@ SolScan is a static analysis tool. It catches common vulnerability patterns auto
 
 ---
 
-*SolScan v1.0 — by cybersecurity experts*
+*SolScan v1.0 — by @drizzy8423*
